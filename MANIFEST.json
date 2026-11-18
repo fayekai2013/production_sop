@@ -1,0 +1,216 @@
+{
+ "package": "AI Film Production Handoff Package",
+ "version": "2026-11-18 v3.0 clean rebuild (public scrub verified across all file types; photoreal generated-result image not published)",
+ "files": [
+  {
+   "path": "README.md",
+   "size": 10760,
+   "sha256": "d4f590ea5a1af94c7d49678451d6b07705f3468a6ba70b98be5d2a7c4f345425"
+  },
+  {
+   "path": "START-HERE_交接說明.md",
+   "size": 8532,
+   "sha256": "86f9bba9f4560e69eee67039d46bd9e4ed80126ad50eda697330d04328159dcd"
+  },
+  {
+   "path": "skills/ai-film-production-workflow/SKILL.md",
+   "size": 10986,
+   "sha256": "9103726285354e41620ed1fc4e59a7500eb12f866eabc04a78ec024900ddfcdd"
+  },
+  {
+   "path": "skills/ai-film-production-workflow/references/part1-core-method.md",
+   "size": 7428,
+   "sha256": "7935750a685c3d2b57abd48df009e25a6e8a5ff761d1ecfff2f797b4aa91e4d3"
+  },
+  {
+   "path": "skills/ai-film-production-workflow/references/part2-field-lessons.md",
+   "size": 54993,
+   "sha256": "669212295ae0ef07724bb8add18402365494601ba8f9180466af0e7d795a3749"
+  },
+  {
+   "path": "skills/ai-film-production-workflow/references/part3-supplement1.md",
+   "size": 26198,
+   "sha256": "9ed0f6c5e04f9dc24c836d61670c507c40786f0fd3905a441ac147b1ad0dda09"
+  },
+  {
+   "path": "skills/ai-film-production-workflow/references/part4-supplement2-dialogue.md",
+   "size": 33684,
+   "sha256": "aa72d7fc8576598f01da351252907945de97e0fa359f86e96495b5989eb3dbc2"
+  },
+  {
+   "path": "skills/ai-film-production-workflow/references/part5-consensus-best-practices.md",
+   "size": 32961,
+   "sha256": "0bf3c45243a6453287ba19fb7bd4cff5023fb88950c58ba10480278eec255fb1"
+  },
+  {
+   "path": "skills/ai-film-team-roles/SKILL.md",
+   "size": 15578,
+   "sha256": "8ac2cec41002d8dd86fe4e96bc15549cbb6d2c8e23335e00b370002d0323f7cb"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/QC_Skill_Assembly.md",
+   "size": 16559,
+   "sha256": "d77496b515b2669d54b4831ce28e7282e4a8922defa138066b75a1e076b8da48"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/SKILL.md",
+   "size": 75344,
+   "sha256": "65cebf32a4d4a1c648031f8c491553ee0f228f9da038e6bbbda4fbc56484f6a5"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/card-index.md",
+   "size": 3025,
+   "sha256": "89f8a829025621c8b9e1ce2322458d4578eb4ceb4a7e45a3c7f862418b539bf9"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r1.md",
+   "size": 35990,
+   "sha256": "f30625e70272034db5ecfe06c74d563348368df62ebd4d29ab6e6647832a9e1c"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r10.md",
+   "size": 9511,
+   "sha256": "727df56dde6f9ad5cadabf657c6959f38c2c90b02376fd1d65a468420940bf12"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r11.md",
+   "size": 7189,
+   "sha256": "a7483241e29cd3db817b3a394278c88e8018a17c3cbf0f9b6b624b065166fc0b"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r12.md",
+   "size": 18743,
+   "sha256": "429ffd41433da17b711748ff244af22d58c8b0d62f118bbe5c07fc1713288892"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r13.md",
+   "size": 6426,
+   "sha256": "c0e2fb154f42321ca72dc7b6f5d7f2e3cd3523ec4840141c6fd935ee12a17059"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r14.md",
+   "size": 5141,
+   "sha256": "dbe6f16bf4600fb28297bb03801f3a415758957c91545835df73874fc5469b94"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r15.md",
+   "size": 61804,
+   "sha256": "8af9224a9d50763b715437ea32fe92d230c22298ee7a15e46cdb169bb112ba98"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r2.md",
+   "size": 11022,
+   "sha256": "9dc1000db1cf32c671c97e4389902497f3d34e04e970136b6244e89acfc2e0e7"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r3.md",
+   "size": 14221,
+   "sha256": "0a4c66e37a77baf984ae00adaf23da664dfacfa77a665ace5a89ee917f098f70"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r4.md",
+   "size": 12097,
+   "sha256": "2ae2af212224d9ab36862caab9768ef9664effde16156c93b86d20bda2a7fd66"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r5.md",
+   "size": 18939,
+   "sha256": "bf199f36c4a3ff84367b9475c7f3e86dee708ca84b2c58b6ec69acd21138ac90"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r6.md",
+   "size": 22952,
+   "sha256": "3fd2f44d3a7eab63305f4773cb2d570b4db4007d68210aed70c715646be51e00"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r7.md",
+   "size": 10140,
+   "sha256": "d8c632e301ab73310ff450f14713207a16eb524b6fbd3e4a6bf3b5f37454cf23"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r8.md",
+   "size": 24611,
+   "sha256": "1e53d3f4ee494a42300e693a70ce0b524fa40b34125e9d7436b6d0766255dae5"
+  },
+  {
+   "path": "skills/story-screenwriting-theory/references/cards-r9.md",
+   "size": 16761,
+   "sha256": "63d3fe49605e47d095d02ed7c60f0a30e3196da4db723b7338739f63ee7e0dd8"
+  },
+  {
+   "path": "supporting-skills/paid_service_authorization/SKILL.md",
+   "size": 3081,
+   "sha256": "bb7ff566afa9cf852fa986d386d16742f3a1600a75dcef25b447324e0dc910a2"
+  },
+  {
+   "path": "supporting-skills/specialist_analysis_and_qc/SKILL.md",
+   "size": 4211,
+   "sha256": "473d0d7dab7040e5a60c4bbe02fa4ae0542a409f63f7e3eabbbb2867c6574c5b"
+  },
+  {
+   "path": "supporting-skills/scoped_build_coverage/SKILL.md",
+   "size": 3255,
+   "sha256": "b6a0c1d5be2aae823451bc9f032de8a370927546ac8108d71f96640d99746bd6"
+  },
+  {
+   "path": "supporting-skills/long_file_delivery_integrity/SKILL.md",
+   "size": 3216,
+   "sha256": "c2d348f8eeff3ccd7d093432f25c795c4daaaf56ba07ed1cd52d9efc7dd6a427"
+  },
+  {
+   "path": "knowledge/TECH-21_ffmpeg-skill.md",
+   "size": 5311,
+   "sha256": "4a86eaceabae34ffab2af706377f0eb5a5e2850aba479e3a0aca0841c414763b"
+  },
+  {
+   "path": "knowledge/TECH-27_Code-Video-Method-Map.md",
+   "size": 6770,
+   "sha256": "114e07a103b8781d5e833bec9580bbcb62fc0578c51862860afd4013c2919f5f"
+  },
+  {
+   "path": "knowledge/TECH-28_Prompting-for-Coding-Agents.md",
+   "size": 12367,
+   "sha256": "63e66c61ddab4f97bbaf802611a27b1c27885138690995e402c2e2429f96a3f7"
+  },
+  {
+   "path": "knowledge/TECH-34_huashu-motion.md",
+   "size": 10123,
+   "sha256": "3f1f9a94a52ae76acfc283b9791346de9ec6cc5762a7d4e394dc9a2fcef1aebf"
+  },
+  {
+   "path": "knowledge/TECH-35_HyperFrames_知識卡.md",
+   "size": 1650,
+   "sha256": "0f5b655088f5962dff0972e2d1a39efc758f14633d32a3f629b30235c11f0a5f"
+  },
+  {
+   "path": "knowledge/TECH-38_AI-Refactoring-100.md",
+   "size": 64262,
+   "sha256": "26a2b74ecd8b3d4c8bf573b23ee21db84f24e2794a5be2f786078066e332e1de"
+  },
+  {
+   "path": "knowledge/TECH-39_AI-Video-Processing-100.md",
+   "size": 55396,
+   "sha256": "59c9d7eb9399ae5239ad6bfe05e76d6f104463558f36e58c33f1071b4ff6a5ff"
+  },
+  {
+   "path": "knowledge/引用與出處_How-to-Cite.md",
+   "size": 3463,
+   "sha256": "ecc6d3bcf7c1b302d915b5ebb1153979fc249c9bf0bf0a10461e90b06697b0e9"
+  },
+  {
+   "path": "knowledge/模型附錄_欄位與已知行為.md",
+   "size": 2458,
+   "sha256": "e688a9f9834d16d529f2c1a69c13e26ac8b9267668797a9a43a83da92407150b"
+  },
+  {
+   "path": "docs/previs-b12-control-pack.png",
+   "size": 387529,
+   "sha256": "a09c0691106bbf54147908d4d1e80856af9eed5c565fdc49e64472a247c92411"
+  },
+  {
+   "path": "docs/previs-b12-dressed-previs.png",
+   "size": 193873,
+   "sha256": "1f77c22fb7d1918cda52f40546a4abaa82ad0e42e54bf37e6a480967a5da3cc2"
+  }
+ ]
+}
