@@ -16,7 +16,7 @@ The TECH dossiers in this folder come from one person's private research library
 
 ## Companion package / 姊妹包
 
-The Grok team's own install package is public and is the detailed companion to this one, including the `previs-and-motion-guides` skill that Part 2 §2.16 of the workflow aligns with: https://github.com/fayekai2013/production_grok — cite it as production_grok (the author / Grok team), with the file path inside the repo.
+The Grok team's own install package is public and is the detailed companion to this one, including the `previs-and-motion-guides` skill that Part 2 §2.16 of the workflow aligns with, and its runnable reference implementation `skills/previs-and-motion-guides/tools/build_previs.py` (landed in production_grok v1.3.1, 2026-11-18): https://github.com/fayekai2013/production_grok — cite it as production_grok (the author / Grok team), with the file path inside the repo.
 
 ## Where this package lives / 這一包在哪裡
 

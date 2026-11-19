@@ -1,6 +1,6 @@
 {
  "package": "AI Film Production Handoff Package",
- "version": "2026-11-18 v3.0 clean rebuild (public scrub verified across all file types; photoreal generated-result image not published)",
+ "version": "2026-11-19 v3.1 (§2.16 reference implementation landed: build_previs.py in production_grok v1.3.1)",
  "files": [
   {
    "path": "README.md",
@@ -24,8 +24,8 @@
   },
   {
    "path": "skills/ai-film-production-workflow/references/part2-field-lessons.md",
-   "size": 54993,
-   "sha256": "669212295ae0ef07724bb8add18402365494601ba8f9180466af0e7d795a3749"
+   "size": 55656,
+   "sha256": "ef5acc00cd72d926693aebb91a9e9966fe69eef3ac22967d0dda5b6e50fc9bf4"
   },
   {
    "path": "skills/ai-film-production-workflow/references/part3-supplement1.md",
@@ -194,8 +194,8 @@
   },
   {
    "path": "knowledge/引用與出處_How-to-Cite.md",
-   "size": 3463,
-   "sha256": "ecc6d3bcf7c1b302d915b5ebb1153979fc249c9bf0bf0a10461e90b06697b0e9"
+   "size": 3609,
+   "sha256": "ea1119bb33e1c7cc8a0c318fd7940d0eda80f9d307b0697edb913c4852522654"
   },
   {
    "path": "knowledge/模型附錄_欄位與已知行為.md",
